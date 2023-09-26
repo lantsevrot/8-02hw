@@ -1,6 +1,7 @@
 # 8-02hw
 
 Задание 1
+
 ![1](https://github.com/lantsevrot/8-02hw/assets/121105399/e8667eac-cf27-4e7b-be4c-0ee0fc49c8ca)
 
 ![2](https://github.com/lantsevrot/8-02hw/assets/121105399/1f7bd2f8-d7cc-463e-9453-4bf1bf69235a)
